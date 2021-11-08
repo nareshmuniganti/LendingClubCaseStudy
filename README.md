@@ -1,5 +1,5 @@
-# Project Name
-> Outline a brief description of your project.
+# Lending Club Case Study
+> Lending Club Case Study is to identify the driving factors which influence the loan applicants defaulting the loan payments. This info can be utilized for risk assesment and cutting down the credit loss for the company.
 
 
 ## Table of Contents
@@ -28,7 +28,7 @@
 
 
 ## Technologies Used
-- library - version 1.0
+- Phyton  - version 3.0
 - library - version 2.0
 - library - version 3.0
 
@@ -42,7 +42,7 @@ Give credit here.
 
 
 ## Contact
-Created by [@githubusername] - feel free to contact me!
+Created by [nareshmuniganti] & [Sandipan3202] - feel free to contact us!
 
 
 <!-- Optional -->
